@@ -51,7 +51,6 @@ Dự án áp dụng các kỹ thuật quan trọng như **RESTful API**, **State
 * Một tài khoản OpenWeatherMap (để lấy API Key miễn phí).
 
 ### 2. Thiết lập API Key (Bảo mật)
-⚠️ **Quan trọng:** Không bao giờ commit file `.env` chứa key thật lên GitHub.
 
 1.  Đổi tên file `.env.example` thành `.env`:
     ```bash
